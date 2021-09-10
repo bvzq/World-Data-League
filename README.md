@@ -1,6 +1,6 @@
 # World-Data-League
 
-World Data League is a competition to solve social oriented problems through statistical solutions. It was divided in four stages, different subject each:
+World Data League (https://www.worlddataleague.com/) is a competition to solve social oriented problems through statistical solutions. It was divided in four stages, different subject each:
 
  - Stage 1: Public Transport
  - Stage 2: Traffic in cities
@@ -16,4 +16,4 @@ For the 4 firsts stages every team had 2 weeks to make a repository, for the fin
 In this folder I publish all our work during these 3 months.
 I hope you like!
 
-https://www.worlddataleague.com/
+
